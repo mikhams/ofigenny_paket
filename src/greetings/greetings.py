@@ -1,0 +1,12 @@
+def russian():
+    return "Привет"
+def english():
+    return "Hello"
+def french():
+    return "Bonjour"
+def german():
+    return "Hallo"
+def hebrew():
+    return "שלום"
+def italian():
+    return "Ciao"
